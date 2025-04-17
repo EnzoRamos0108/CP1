@@ -5,4 +5,6 @@ let vinhoNome = 'Vinho Branco Chardonnay meio-seco';  // valor atribuído
 
 console.log(vinhoTinto);  // undefined
 console.log(vinhoBranco);  // vazio
-console.log(vinhoNome);  // Vinho Tinto Reserva
+console.log(vinhoNome);  // Vinho Branco Chardonnay meio-seco
+
+//Questão 2 -
